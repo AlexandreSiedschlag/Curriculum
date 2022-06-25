@@ -1,13 +1,7 @@
-/**
- * Template Name: Personal - v2.1.0
- * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
- * Author: BootstrapMade.com
- * License: https://bootstrapmade.com/license/
- */
 !(function ($) {
   'use strict';
 
-  // Nav Menu
+  // Nav Menu and shitty front-end things happening   !BACKEND RULES!
   $(document).on('click', '.nav-menu a, .mobile-nav a', function (e) {
     if (
       location.pathname.replace(/^\//, '') ==
@@ -153,7 +147,7 @@
     },
   });
 
-  // Porfolio isotope and filter
+  // Portfolio isotope and filter - not really using so good
   $(window).on('load', function () {
     var portfolioIsotope = $('.portfolio-container').isotope({
       itemSelector: '.portfolio-item',
