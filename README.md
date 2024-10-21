@@ -1,3 +1,3 @@
 # Visit my Personal Portfolio 🔥:
- https://alexandresiedschlag.github.io/Curriculo/index.html
+ https://alexandresiedschlag.github.io/Curriculo
 
